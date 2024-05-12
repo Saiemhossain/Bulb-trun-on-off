@@ -1,0 +1,19 @@
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  min-height: 100vh;
+background: transparent;
+}
+h2{
+  text-align: center;
+}
+
+button{
+  padding: 10px 15px;
+  background: blueviolet;
+  color: white;
+  font-size: 18px;
+  border-radius: 10px;
+}
